@@ -1,6 +1,6 @@
 # Personal Budget Analyzer (Java)
 
-A beginner-friendly financial analysis tool built in **Java (UIUC CS124 style)** that reads transaction data from a CSV file and generates savings metrics and spending insights.
+A beginner-friendly financial analysis tool built in **Java** that reads transaction data from a CSV file and generates savings metrics and spending insights.
 
 This project demonstrates foundational programming concepts including object-oriented design, file I/O, data aggregation, and sorting algorithms applied to personal finance analytics.
 
